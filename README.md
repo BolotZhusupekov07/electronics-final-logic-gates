@@ -1,5 +1,5 @@
 # Electronics-final-logic-gates 
-## We created lohic gates simulator.
+## We created logic gates simulator.
 # A members of our team: Bolot Zhusupbekov, Erlan Kerimbekov and Medina Isabek kyzy
 ## This is the one theme of electronic's lesson
 ### A logic gate is an idealized or physical device implementing a Boolean function, a logical operation performed on one or more binary inputs that produces a single binary output. 
